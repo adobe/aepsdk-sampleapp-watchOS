@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "aepsdk-assurance-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-assurance-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "55ab38bb7e9c2e75a38ab2eb52b0f992fc5758e9"
+      }
+    },
+    {
+      "identity" : "aepsdk-core-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-core-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "cbe92a23dea02638fc5abd47bed5d62d303f7154"
+      }
+    },
+    {
+      "identity" : "aepsdk-edge-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-edge-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f98238fa454ec11eece1de89a1e1252ed2101ceb"
+      }
+    },
+    {
+      "identity" : "aepsdk-edgeconsent-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-edgeconsent-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c9e7884f04c5ebc2f1d808426da4078a5b474b18"
+      }
+    },
+    {
+      "identity" : "aepsdk-edgeidentity-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-edgeidentity-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c17c9e81d13ecfe5985a59453c00d34d1b636a96"
+      }
+    },
+    {
+      "identity" : "aepsdk-messaging-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-messaging-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "691de5d50f64a3a5367ca42c41bba95f75852031"
+      }
+    },
+    {
+      "identity" : "aepsdk-rulesengine-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-rulesengine-ios.git",
+      "state" : {
+        "revision" : "5907e2ed364135448a2a5d77a76c2ff971396397",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "aepsdk-userprofile-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FrazierMark/aepsdk-userprofile-ios",
+      "state" : {
+        "branch" : "main",
+        "revision" : "93463f2f3e983b7bfd622e58cf1dec3ae94aa103"
+      }
+    }
+  ],
+  "version" : 2
+}
